@@ -61,5 +61,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 - Melhorias na interface ou experiência do usuário.
 - Otimizações de desempenho ou segurança.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+
